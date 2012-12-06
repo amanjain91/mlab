@@ -2,8 +2,8 @@
 
 RSYNC=/usr/bin/rsync
 SSH=/usr/bin/ssh
-iKEY=keys/aman.pem
-ROUTEMAP=/home/isildur/mlab/mapping
+KEY=keys/aman.pem
+ROUTEMAP=/home/isildur/mlab/mapping.txt
 
 cd
 

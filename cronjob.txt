@@ -1,1 +1,1 @@
-*/10 * * * * /home/isildur/mlab/mlabscript
+*/10 * * * * /home/isildur/mlab/mlabscript.sh
