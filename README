@@ -1,0 +1,9 @@
+This project is a collection of scripts to copy dat to the mlab and dp4 servers
+
+HOWTO
+1. open cronjob file and edit the frequncy of task and path to script
+2. open mapping and add source and destinatio pairs (1 pair per line)
+3. open mlabscript and verify all paths are correct
+4. run installer to add this cronjob to the system
+
+After this, the mlabscript will be routinely run to perform the data copy
