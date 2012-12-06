@@ -3,7 +3,7 @@
 RSYNC=/usr/bin/rsync
 SSH=/usr/bin/ssh
 KEY=keys/aman.pem
-ROUTEMAP=dev/mapping
+ROUTEMAP=mlab/mapping
 
 cd
 
